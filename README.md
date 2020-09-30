@@ -70,3 +70,5 @@ public class TestController {
 ```
 ### 5.测试
 启动所有服务，访问`http://127.0.0.1:8091/test` ，成功返回结果，测试成功
+
+完整代码参考：https://github.com/Grrui/spring-cloud-demo-feign
