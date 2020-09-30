@@ -1,10 +1,10 @@
-package com.erniu.eurekademo.serverconsumer;
+package com.erniu.springcloud.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServerConsumerApplicationTests {
+class EurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {

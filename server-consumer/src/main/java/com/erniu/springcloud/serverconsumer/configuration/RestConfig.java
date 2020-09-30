@@ -1,4 +1,4 @@
-package com.erniu.eurekademo.serverconsumer.configuration;
+package com.erniu.springcloud.serverconsumer.configuration;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;

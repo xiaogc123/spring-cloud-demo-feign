@@ -1,4 +1,4 @@
-package com.erniu.eurekademo.serverconsumer.domain;
+package com.erniu.springcloud.serverprovider.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

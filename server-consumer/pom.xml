@@ -3,10 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.erniu.eureka-demo</groupId>
-		<artifactId>eureka-demo</artifactId>
-		<version>0.0.1</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<groupId>com.erniu.spring-cloud-demo</groupId>
+		<artifactId>spring-cloud-demo</artifactId>
+		<version>0.0.1-SNATSHOT</version>
 	</parent>
 	<artifactId>server-consumer</artifactId>
 	<version>0.0.1</version>

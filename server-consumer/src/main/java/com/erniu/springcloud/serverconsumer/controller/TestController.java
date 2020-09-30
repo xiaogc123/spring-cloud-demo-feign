@@ -1,4 +1,4 @@
-package com.erniu.eurekademo.serverconsumer.controller;
+package com.erniu.springcloud.serverconsumer.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import lombok.val;

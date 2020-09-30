@@ -1,6 +1,6 @@
-package com.erniu.eurekademo.serverprovider.controller;
+package com.erniu.springcloud.serverprovider.controller;
 
-import com.erniu.eurekademo.serverprovider.domain.User;
+import com.erniu.springcloud.serverprovider.domain.User;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

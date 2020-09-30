@@ -211,5 +211,3 @@ public class TestController {
 
 ## 4.测试
 启动三个服务，调用consumer的/test方法，查看范围结果。
-
-完整代码参考：https://github.com/Grrui/eureka-demo

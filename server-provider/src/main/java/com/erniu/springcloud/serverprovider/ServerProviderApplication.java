@@ -1,4 +1,4 @@
-package com.erniu.eurekademo.serverprovider;
+package com.erniu.springcloud.serverprovider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

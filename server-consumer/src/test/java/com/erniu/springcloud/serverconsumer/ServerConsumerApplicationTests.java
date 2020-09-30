@@ -1,10 +1,10 @@
-package com.erniu.eurekademo.serverprovider;
+package com.erniu.springcloud.serverconsumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServerProviderApplicationTests {
+class ServerConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
